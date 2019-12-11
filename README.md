@@ -8,5 +8,7 @@ Step 2)Next we have to create the neccessary .html files or templates used in th
 
 Step 3)Download the .html and .py files from this repo and put them in the above mentioned structure. 
 
-Step 4)Execute the python file and test the results in the browser at - localhost:<port>
+Step 4)Execute the python file and test the results in the browser at - localhost:(port) with any sample .txt file.
+
   
+ 
