@@ -15,7 +15,6 @@ def call_upload():
 def upload():
     file = request.files['inputFile']
     global fileList
-    f = magic.Magic(mime = True)
     fileList.append(file.filename)
     file.save(file.filename)
     return render_template('index.html',fileList = fileList)
